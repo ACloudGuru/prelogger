@@ -31,4 +31,4 @@ Please fork this repo to make changes and then issue a pull request back to this
 You can run the unit tests using `npm test`
 
 # Contributors
-[Daniel Parker (@rlgod)](Rlgod)
+[Daniel Parker (@rlgod)](https://github.com/rlgod)

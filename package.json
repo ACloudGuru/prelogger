@@ -1,6 +1,6 @@
 {
     "name": "prelogger",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Prefix your log messages to allow for correlation Ids and other metadata",
     "main": "index.js",
     "scripts": {
