@@ -1,0 +1,30 @@
+{
+    "name": "prelogger",
+    "version": "0.0.1",
+    "description": "Prefix your log messages to allow for correlation Ids and other metadata",
+    "main": "index.js",
+    "scripts": {
+        "test": "./node_modules/.bin/mocha --reporter spec"
+    },
+    "engines": {
+        "node": ">=4.3.2"
+    },
+    "repository": {
+        "url": "git+https://github.com/ACloudGuru/prelogger.git",
+        "type": "git"
+    },
+    "keywords": [
+        "lambda",
+        "logger"
+    ],
+    "author": "A Cloud Guru",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/ACloudGuru/prelogger/issues"
+    },
+    "homepage": "https://github.com/ACloudGuru/prelogger#readme",
+    "devDependencies": {
+        "chai": "^3.5.0",
+        "mocha": "^3.1.2"
+    }
+}
