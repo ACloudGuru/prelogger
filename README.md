@@ -1,4 +1,4 @@
-# prelogger
+# prelogger [![Build Status](https://travis-ci.org/ACloudGuru/prelogger.svg?branch=master)](https://travis-ci.org/ACloudGuru/prelogger)
 Node Logger which supports prefixing log messages with metadata such as correlation IDs
 
 # Installation
